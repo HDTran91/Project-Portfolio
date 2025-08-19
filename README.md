@@ -24,11 +24,16 @@ Welcome! Here's a collection of my favorite work categorized by domain.
 ------------------------------------------------------------------
 
 
-## 🧠 AI / Machine Learning Projects
+## 🧠 AI / Machine Learning Projects / Generative AI
 
-- 🤖 [Rhythm Prediction Model](https://github.com/HDTran91/diagnose_arrhythmia_ecg.git)
+- 🤖 [ Rhythm Prediction Model ](https://github.com/HDTran91/diagnose_arrhythmia_ecg.git)
   AI model for detecting rhythm anomalies (e.g., heart arrhythmias) from medical time-series data using deep learning.
 
-- 🧠 in-coming
+- 🧠 [ Chat With PDF ](https://github.com/HDTran91/Chatbot-with-pdf.git)
+  Upload any PDF and chat with its content. Ask questions, get summaries, and explore your documents interactively using AI-powered search and embeddings.
+  Deploy: https://huggingface.co/spaces/Gacondev/Chat_with_PDF
 
-- 📄 in-coming
+- 📄 [ MovieRequest ](https://github.com/HDTran91/MovieQuest-Weaviate-Gradio-openAI.git)
+  Search and explore movies by title, actor, actress, or genre with AI-powered recommendations using a Weaviate vector database and Gradio interface
+
+
