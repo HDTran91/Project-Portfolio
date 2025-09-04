@@ -36,4 +36,18 @@ Welcome! Here's a collection of my favorite work categorized by domain.
 - 📄 [ MovieRequest ](https://github.com/HDTran91/MovieQuest-Weaviate-Gradio-openAI.git)
   Search and explore movies by title, actor, actress, or genre with AI-powered recommendations using a Weaviate vector database and Gradio interface
 
+- 🧠 [ AI tutor ](https://github.com/HDTran91/AI-Tutor.git)
+  The AI Tutor is a personalized, interactive learning assistant built with LangChain, Gradio, and vector databases. It allows students to upload their class materials (PDFs, lecture notes, textbooks), and then chat naturally with the AI to receive clear, context-aware explanations, step-by-step problem solving, and personalized quizzes.
+
+- 📄 [ Stock-crypto-chatbot  ](https://github.com/HDTran91/Stock-crypto-chatbot.git)
+  A conversational assistant that fetches real-time stock and cryptocurrency prices on demand. Users can ask natural-language questions like “What’s AAPL at right now?”, “Show me BTC and ETH today,” or “How did TSLA move this week?” and get fast, formatted answers with the latest market data.
+
+- 🧠 [ Chatbot-drawing-image ](https://github.com/HDTran91/Chatbot-drawing-image-OpenAI-Stable-Diffusion.git)
+  Developed an interactive chatbot application that generates custom images from natural language prompts.
+
+- 📄 [ Telegram Bot ](https://github.com/HDTran91/Telegram_bot.git)
+   Description (General) This Telegram bot allows users to interact directly within Telegram to perform automated tasks, get instant information, and access services without leaving the chat. Built with the Telegram Bot API, it can send and receive messages, respond to commands, process user inputs, and integrate with external APIs. Features can range from simple text responses to advanced functions like data fetching, AI-powered replies, reminders, or even controlling IoT devices.
+
+
+
 
